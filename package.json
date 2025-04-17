@@ -6,6 +6,6 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Niranjan Surve",
+  "author": "Admin",
   "license": "ISC"
 }
